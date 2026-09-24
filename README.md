@@ -1,4 +1,3 @@
-# **Python_work**
 ## Core Python implementations including OOP tasks, Searching and sorting algorithms and some demo tasks.
 
 ### Searching and Sorting algorithms include
